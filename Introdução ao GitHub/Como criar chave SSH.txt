@@ -1,0 +1,17 @@
+Como criar chave SSH:
+
+1. Para criar a chave no Git:
+1.1 colocar o comando: ssh-keygen -t ed25519 > confirmar local em que será salva a chave > criar senha e confirmar
+1.2 Acessar a pasta em que criada a .ssh > colocar o comando: cat ided25519.pub
+1.3 Copiar o código que será gerado
+
+2. No site do GitHub:
+2.1 > Profile > Settings > SSH and GPG Keys > New SSH Key
+2.2 Adicionar título e colar a chave gerada pelo Git.
+
+3. Ainda na pasta em que criada a .ssh:
+3.1 colocar o comando: eval $(ssh-agent -s)
+3.2 colocar o comando: ls > aparecerá as chaves privada e pública
+3.3 colocar o comando: ssh-add id_ed255199 > digitar a senha da chave
+
+DONE!

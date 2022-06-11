@@ -1,0 +1,11 @@
+﻿1.Comandos Básicos
+Git init (iniciar um repositório)
+Git add (adicionar um arquivo ao stage)
+Git add . (para adicionar todos os arquivos)
+git commit -m (para comitar)
+
+2. Comandos de navegação
+pwd > mostrar caminho completo
+ls > mostrar pastas
+mkdir > criar pasta
+cd > navegar no diretório
