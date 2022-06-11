@@ -1,0 +1,24 @@
+<section> - para abrir seções
+<header> - título da página
+<article>
+<aside>
+<footer> informações de rodapé
+<h1>-<h6>
+<p>parágrafo</p>
+
+<a>Link</a>
+ex: <a href="www.example.com" target="_blank"> texto da página </a>
+
+NOTA: o target blank é para abrir o link em outra página.
+
+
+
+IMAGENS:
+<img>
+<img src="img/avatar.jpg">: esta é a source, elemento obrigatório.
+<img alt="Foto de Lucas">: a informação é elemento opcional.
+
+LISTAS
+<ul>: ordem dos itens não importa
+<ol>: ordem importa
+<li>: item da lista
