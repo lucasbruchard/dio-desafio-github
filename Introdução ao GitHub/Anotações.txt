@@ -1,2 +1,5 @@
-#Anotações do curso
-##1.Comandos Básicos
+#AnotaÃ§Ãµes do curso
+##1.Comandos BÃ¡sicos
+Git init
+Git add . (ponto para adicionar tudo)
+git commit -m
