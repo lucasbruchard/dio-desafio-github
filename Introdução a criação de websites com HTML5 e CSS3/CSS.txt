@@ -1,0 +1,34 @@
+ID x Classe
+.header: ponto para classe
+#header: hash para ID
+
+BOX MODEL:
+Margin, border, padding, content
+
+padding: superior, inferior, esquerdo e direito (15px 10px 5px 0)
+oadding-top: 15px
+padding-right: 10px
+padding-bottom: 5px
+padding-left: 0
+
+background:
+background-color: nome da cor, hash decimal
+
+border: 
+Largura: px, cm, mm...
+cor: blue, #0000ff
+Estilo: solida, pontilhada, tracejada...
+
+Border-radius: 10px;50% (redondo)
+
+Fonte:
+font-family: tipo de fonte
+font-size: tamanho
+font-style: normal, italic, ...
+font-weight: bold, ...
+text-transform: lowercase; uppercase; capitalize...
+text-decoration; colocar linha - underline, overline, line-through
+
+list-style-type:
+ul square
+ol upper-roam
